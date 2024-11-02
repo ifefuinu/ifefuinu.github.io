@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ifefuinu.github.io/Dci/sitemap_index.txt
+Sitemap: https://ifefuinu.github.io/ZgW/sitemap_index.txt
+Sitemap: https://ifefuinu.github.io/pDm/sitemap_index.txt
+Sitemap: https://ifefuinu.github.io/yMF/sitemap_index.txt
